@@ -3,6 +3,7 @@ library(plotly)
 library(dplyr)
 library(tidyr)
 library(RColorBrewer)
+library(tidyverse)
 
 # 
 
